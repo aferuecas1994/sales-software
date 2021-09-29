@@ -1,0 +1,45 @@
+li {
+    color: #e65100;
+    font-size: 30px;
+}
+p {
+    color: #E040FB;
+    font-size: 20 px;
+    background-color: burlywood;
+}
+
+#fruta_P {
+    color:gold;
+    background-color: red;
+}
+
+.clase_1{
+    color:red;
+    background-color:greenyellow;
+}
+
+.botones {
+    width: 50px; /* Estamos modificando las propiedades de la caja*/
+    height: 50px;
+    border-radius: 25px;
+    position: absolute;
+    top: 700px;
+    
+}
+
+.botones2 {
+    background-color: red; 
+    color: black;
+    left: 300px;
+}
+
+/*
+Me gustaría por ejemplo modificar una clase predefinida en Bootstrap. Entonces
+-- tomo el nombre de una clase predefinida y le modifico el color:
+
+*/
+
+.btn-primary {
+    background-color: green;
+}
+
